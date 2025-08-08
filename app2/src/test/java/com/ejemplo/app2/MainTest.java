@@ -1,5 +1,4 @@
-package test.java.com.ejemplo.app;
-
+package test.java.com.ejemplo.app2;
 
 import org.junit.Test;
 

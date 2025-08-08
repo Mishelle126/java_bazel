@@ -1,4 +1,4 @@
-package test.java.com.ejemplo.app;
+package com.ejemplo.app;
 
 import org.junit.Test;
 
